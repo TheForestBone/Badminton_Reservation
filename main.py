@@ -13,8 +13,8 @@ from apscheduler.schedulers.blocking import BlockingScheduler
 
 
 dict = {
-    'account': '202211964',  # 学号
-    'pwd': 'wangrui0226*',  # 密码
+    'account': '',  # 学号
+    'pwd': '',  # 密码
     'date' : '2024-12-05',
     'time' : '18:00-20:00',
     'event' : '综合体育馆乒乓球',
